@@ -1,0 +1,6 @@
+print("hello world")
+print("This is a simple Python script that prints 'hello world' and a message to the console.")
+print("You can run this script using a Python interpreter.")
+print("Make sure you have Python installed on your system before running the script.")
+print("To run the script, save it as 'Introduction.py' and execute it in the terminal or command prompt.")
+print("python Introduction.py")
